@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.js": "/Sample_react01/static/js/main.3578c991.js",
-    "static/media/two.jpg": "/Sample_react01/static/media/two.f1641616a1ec7bdabc91.jpg",
-    "static/media/one.jpg": "/Sample_react01/static/media/one.3ee5cbfb5443fae93bf2.jpg",
-    "static/media/three.jpg": "/Sample_react01/static/media/three.67fd671aef45b4ec5cab.jpg",
-    "static/media/c.jpg": "/Sample_react01/static/media/c.a8ba5cc1689347ca427c.jpg",
-    "static/media/b.jpg": "/Sample_react01/static/media/b.065cf87d801da0aa9099.jpg",
-    "static/media/a.jpg": "/Sample_react01/static/media/a.c9cac06b24126f3d952c.jpg",
+    "main.css": "/Sample_react01/static/css/main.48b43e4f.css",
+    "main.js": "/Sample_react01/static/js/main.9a7772cb.js",
+    "static/media/blockchain1.webp": "/Sample_react01/static/media/blockchain1.84b6944875f760f809ca.webp",
+    "static/media/pinetwork3.jpg": "/Sample_react01/static/media/pinetwork3.6792ee83fca97c00a6a5.jpg",
+    "static/media/blockchain2.png": "/Sample_react01/static/media/blockchain2.6107d40a48c1d68d5f52.png",
+    "static/media/blockchain3.jpg": "/Sample_react01/static/media/blockchain3.cb7b896bb4f558f6b716.jpg",
     "index.html": "/Sample_react01/index.html",
-    "main.3578c991.js.map": "/Sample_react01/static/js/main.3578c991.js.map"
+    "main.48b43e4f.css.map": "/Sample_react01/static/css/main.48b43e4f.css.map",
+    "main.9a7772cb.js.map": "/Sample_react01/static/js/main.9a7772cb.js.map"
   },
   "entrypoints": [
-    "static/js/main.3578c991.js"
+    "static/css/main.48b43e4f.css",
+    "static/js/main.9a7772cb.js"
   ]
 }
