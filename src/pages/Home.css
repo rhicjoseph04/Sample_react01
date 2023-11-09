@@ -1,0 +1,56 @@
+body {
+  background-image: url('../img/pinetwork3.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+
+.featured-collections-container {
+  background-image: url('../img/pinetwork3.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  color: white;
+}
+.featured-collections-container h1{
+  color: white; 
+  font-weight:600;
+
+}
+
+
+.featured-collections-container p {
+  color:  black;
+}
+
+.quotes-container {
+  background-image: url('../img/pinetwork3.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  color: white;
+  font-size:larger;
+}
+
+.quotes-content {
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 10px;
+  border-radius: 10px; 
+  
+}
+
+.quotes-content h1{
+  color: white; 
+  font-weight:600;
+
+  
+}
